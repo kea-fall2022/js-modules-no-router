@@ -1,4 +1,4 @@
-# Example start code for project-1
+# Example start code for the video JS-modules no browser
 
 Simple project layout which you can use for the first project.
 You dont have to use this, and if you do, feel free to twist it any way you like.
